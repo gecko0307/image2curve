@@ -10,4 +10,4 @@ Install `gimp_layer_to_curve.py` in Blender preferences.
 
 Copy `layer_to_blender_curve.py` to GIMP plugins directory (`C:\Users\<user>\AppData\Roaming\GIMP\2.10\plug-ins` under Windows).
 
-The script will be available in `Layer -> To Blender curve` menu in GIMP. There's nothing to be done on Blender part, it works automatically via XML-RPC protocol.
+Plugin will be available in `Layer -> To Blender curve` menu in GIMP. There's nothing to be done on Blender side, it works automatically via XML-RPC protocol.
